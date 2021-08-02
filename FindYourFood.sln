@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindYourFood", "FindYourFood.csproj", "{1759C8A3-3518-4213-A15D-6A7D6489A901}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppJS", "AppJS", "{C3624A1E-8C9B-4020-A8DC-A3D1976690A2}"
+	ProjectSection(SolutionItems) = preProject
+		Login.js = Login.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1759C8A3-3518-4213-A15D-6A7D6489A901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1759C8A3-3518-4213-A15D-6A7D6489A901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1759C8A3-3518-4213-A15D-6A7D6489A901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1759C8A3-3518-4213-A15D-6A7D6489A901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C410453-4CF3-4E4D-8C96-868FBE303C64}
+	EndGlobalSection
+EndGlobal
